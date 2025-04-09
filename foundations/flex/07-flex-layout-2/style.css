@@ -64,3 +64,8 @@ a {
   flex-wrap: wrap;
   padding: 48px;
 }
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
